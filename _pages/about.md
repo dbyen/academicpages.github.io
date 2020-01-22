@@ -26,3 +26,7 @@ As a master's student at NYU, I have been able to build on my mathematical found
 I am also interested in quantitative research relevant to people. In addition to past research on neuroscience or studying homelessness in Los Angeles, I hope to contribute to future projects on issues relevant for society. I am excited about opportunities where I can flex my critical thinking skills as well as my statistical analysis and modeling abilities, and I have come to see data science as a powerful way to make sense of large amounts of information at scale. This makes it important to consider ethical and social implications and especially impacts of systems on marginalized communities – which applies beyond data science to complex systems in general.
 
 In my free time, I like to run in Hudson River Park, listen to podcasts, and write about things only occasionally related to data science and media.
+
+What I'm listening to
+------
+{% include spotifyPlaylist.html id="5VIxiW2aU9eWnnC1EIzaos" %}
