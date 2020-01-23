@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[You can get a PDF version of my resume here.](dbyen.github.io/files/YenDerekResume.pdf)
+
 ## Education
 
 * New York University – *May 2020*
