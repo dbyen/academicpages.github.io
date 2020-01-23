@@ -12,7 +12,7 @@ About me
 ======
 I'm Derek, a graduate student at the Center for Data Science at New York University pursuing a *master's degree in data science* and graduating in May 2020. As a data scientist, my areas of interest include **machine learning**, **time series analysis**, and **natural language processing**. Throughout my professional and academic career, I have been passionate about intersections between data and stories about people. From *data science in the media industry* to using *natural language processing* for text data at scale to *computational research on social systems* to anything related to how we process information and turn it into a meaningful story, I am fascinated by connections between the two.
 
-If any of this resonates with you, **I'm actively looking for full-time roles in New York.** For more details about my work, check out my [resume](https://dbyen.github.io/cv/), and feel free to contact me [at one of these places](https://dbyen.github.io/contact/). For my general background, read on.
+If any of this resonates with you, **I'm actively looking for full-time roles in New York.** For more details about my work, check out my [resume](https://dbyen.github.io/resume/), and feel free to contact me [at one of these places](https://dbyen.github.io/contact/). For my general background, read on.
 
 Background
 ------
