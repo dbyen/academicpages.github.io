@@ -15,7 +15,7 @@ redirect_from:
 
 * New York University – *May 2020*
   - Master of Science in Data Science (GPA: **3.96/4.00**)
-  - *Selected coursework:* Deep Learning for Natural Language Processing, Probabilistic Time Series Modeling, Natural Language Understanding and Computational Semantics, Machine Learning, Big Data, Optimization and Computational Linear Algebra
+  - *Selected coursework:* Deep Learning, Natural Language Processing, Probabilistic Time Series Modeling, Natural Language Understanding and Computational Semantics, Text as Data, Responsible Data Science, Machine Learning, Big Data, Optimization and Computational Linear Algebra
 * University of California, Los Angeles  – *June 2018*
   - Bachelor of Science in Mathematics of Computation with Minor in Neuroscience
   - *Selected coursework:* Information and Power, American Television History, Algorithms in Bioinformatics, Mathematical Modeling
@@ -26,7 +26,7 @@ redirect_from:
 |  |  |
 |:--------| ------- |
 | **Programming languages**         | Python, R, MATLAB, C++, HTML, JavaScript                   |
-| **Python library proficiencies**  | PyTorch, Scikit-learn, Pandas, NumPy, SciPy, Tensorflow    |
+| **Python library proficiencies**  | PyTorch, Tensorflow, Scikit-learn, Pandas, Matplotlib, NumPy, SciPy    |
 | **Big data tools**                | SQL, PySpark, MapReduce                                    |
 | **Design and typesetting**        | LaTeX, Markdown, WordPress, Adobe InDesign                 |
 
@@ -51,15 +51,15 @@ redirect_from:
     - Fine-tuned linear regression models for forecasting NBC viewer demographic distributions on a single-show level
     - Produced 18-month forecasts using Python machine learning methods (ARIMA, linear regression, random forest) for shortform digital content including YouTube, Hulu, etc.
   - *Evaluating forecasting models*
-    - Developed processes using MLFlow and R to save 800+ forecast models and evaluate based on MAPE, APE, visualization, anomaly detection, etc.
+    - Developed processes using MLFlow and R to save 800+ forecast models, evaluate based on MAPE, APE, visualization, anomaly detection, etc., and update MySQL tables for the models
     - Designed interactive Retool interface for senior data scientists to track model performance, which I folded into the production process
-* **Sept. 2017 - July 2018**: Undergraduate research assistant studying data on homelessness in Los Angeles with UCLA Mathematics Department
+* **Sept. 2017 - Aug. 2018**: Undergraduate research assistant studying data on homelessness in Los Angeles with UCLA Mathematics Department
   - Extracted and cleaned data from Google Maps Geocoding API and public datasets (American Community Survey, LA city data from DataLA)
   - Visualized and analyzed Los Angeles city census tracts with principal component analysis, nonnegative matrix factorization, geographic mapping, and correlation analysis
   - Implemented and evaluated machine learning models (linear regression, logistic regression) for predicting changes in homeless populations in Python and Tensorflow
   - Experimented with simulations and single-layer artificial neural networks in MATLAB and Tensorflow
   - Communicated results to UCLA faculty and students through multiple presentations and reports
-* **Sept. 2017 - Dec. 2017**: Customer data analytics intern at GuidedChoice
+* **Sept. 2017 - Nov. 2017**: Customer data analytics intern at GuidedChoice
   - Produced insightful visualizations and demographic breakdowns of state of Florida account for retirement planning financial services firm
 * **June 2015 - Dec. 2017**: Research assistant for Swartz Center for Computational Neuroscience at University of California, San Diego
   - Participated in design and proposal of experiment on how competition modulates neural correlates of insight
